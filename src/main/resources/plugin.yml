@@ -1,0 +1,7 @@
+name: ClydeSense
+version: '${project.version}'
+main: robo.clyde.clydesense.ClydeSense
+api-version: 1.19
+load: STARTUP
+authors: [ ClydeRobo ]
+website: https://discord.gg/ZEtmH9Gzk4
